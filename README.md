@@ -2,7 +2,7 @@
 
 ## データ
 
-https://github.io/lambda333/resume/blob/master/docs/README.md
+https://github./lambda333/resume/blob/master/docs/README.md
 
 ## Features
 
