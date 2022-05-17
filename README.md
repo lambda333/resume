@@ -2,7 +2,7 @@
 
 ## Sample
 
-https://github.com/kawamataryo/resume
+https://github.com/lambda333/resume
 
 ## Features
 
