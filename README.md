@@ -2,7 +2,7 @@
 
 ## Data
 
-- [GitHub Pages](https://github./lambda333/resume/blob/master/docs/README.md)
+- [GitHub Pages](https://github.com/lambda333/resume/blob/master/docs/README.md)
 
 ## Features
 
