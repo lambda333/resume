@@ -1,8 +1,8 @@
 # Onakahara's resume
 
-## データ
+## Data
 
-https://github./lambda333/resume/blob/master/docs/README.md
+- [GitHub Pages](https://github./lambda333/resume/blob/master/docs/README.md)
 
 ## Features
 
